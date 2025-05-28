@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 Currently messing around NixOS<br>🌱 I’m currently learning Flutter and Nix<br>💬 How to stop being lazy
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sibtain.v) 
